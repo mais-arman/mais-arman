@@ -101,8 +101,8 @@
 
 ### 📊 GitHub Stats & Most Used Languages:
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=mais-arman&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="58%" height="200px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mais-arman&layout=compact&theme=tokyonight" alt="Most Used Languages" width="58%" height="200px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=mais-arman&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mais-arman&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%"/>
 </p>
 
 ---
